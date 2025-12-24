@@ -3,7 +3,7 @@ name: Deploy SIAGA Face (Prod)
 on:
   push:
     branches:
-      - main
+      - master
   workflow_dispatch:
 
 jobs:
